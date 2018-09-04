@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(125, 189, 248);
+}
+
+
+
+section {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+canvas{
+    border: 10px solid white;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Jua', sans-serif;
+}
+
+h2{
+ margin-bottom:0;
+}
